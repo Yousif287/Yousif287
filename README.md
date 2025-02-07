@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there my name is Yousif Faraj👋
+- I like to play video games
+- I am a fourth year majoring in Computer Engineering
+- I am interested in graduating
+- I am looking to collaborate on any project that helps me develop my skills
 <!--
 **Yousif287/Yousif287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
